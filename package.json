@@ -1,0 +1,19 @@
+{
+  "name": "npm-package-test-deadbeef",
+  "version": "1.0.0",
+  "description": "Nothing to see here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobmillsfl/npm-package-test-deadbeef.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacobmillsfl/npm-package-test-deadbeef/issues"
+  },
+  "homepage": "https://github.com/jacobmillsfl/npm-package-test-deadbeef#readme"
+}
